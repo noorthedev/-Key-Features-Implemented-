@@ -21,20 +21,6 @@ This project demonstrates how to design **agentic systems** that can route, hand
   - Premium Status  
   - Issue Type  
 
-# 🤝 Contribution
-I welcome contributions! Feel free to submit issues or pull requests.
-
-# 📢 Connect
-📧 Email: nanum3773@gmail.com
-
-💼 LinkedIn: Anum Rajput
-
-💻 GitHub: Anum Rajput
-
-🐦 X (Twitter): @Anumrajput88
-
-# ⭐ Star this repository if you find it inspiring!
-Happy coding!
 - **Dynamic Tool Gating**  
   Tools are only enabled when needed.  
 
@@ -96,3 +82,17 @@ Billing Agent: Hello Noor, I see you're a premium user. Let's solve your billing
 
 This project is licensed under the MIT License.
 
+# 🤝 Contribution
+I welcome contributions! Feel free to submit issues or pull requests.
+
+# 📢 Connect
+📧 Email: nanum3773@gmail.com
+
+💼 LinkedIn: Anum Rajput
+
+💻 GitHub: Anum Rajput
+
+🐦 X (Twitter): @Anumrajput88
+
+# ⭐ Star this repository if you find it inspiring!
+Happy coding!
